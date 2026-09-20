@@ -1,4 +1,4 @@
-# BI & Big Data - Laboratorio 02
+# BI & Big Data - Laboratorio 03
 
 ## Objetivo
 Crear un esquema en Databricks Unity Catalog mediante Liquibase
